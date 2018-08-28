@@ -1,2 +1,2 @@
 # LMILIB
-This is my library of function for Robust Control and Robust Filtering using LMI
+This is my library of functions for Robust Control and Robust Filtering using LMI
